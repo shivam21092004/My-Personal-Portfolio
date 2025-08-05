@@ -1,12 +1,23 @@
-# React + Vite
+# 🚀 Shivam Bartwal - Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website built using modern React practices. This project showcases my work, skills, tech stack, and provides a way for visitors to connect with me. It combines interactive animations, responsive design, and modular components for a smooth user experience.
 
-Currently, two official plugins are available:
+![Portfolio Screenshot](/logos/preview.png) 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🧭 Smooth navigation with a responsive navbar
+- 💫 Hero section with particle effects and parallax background
+- 👤 "About Me" with dynamic cards and tech stack visualization
+- 🧠 Projects grid showcasing selected work
+- 💌 Contact form with email functionality
+- 🎨 Reusable components for scalability and ease of development
+
+## 🛠️ Tech Stack
+
+React = UI rendering and component-based design
+Framer Motion = Animations and transitions
+Tailwind CSS = Styling and layout
+Vite = Frontend build tool
+JSX = Syntax for defining UI components

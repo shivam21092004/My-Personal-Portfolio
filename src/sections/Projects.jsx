@@ -4,7 +4,7 @@ import { Particles } from "../components/Particles";
 
 const Projects = () => {
   return (
-    <section id="project" className="relative c-space section-spacing">
+   <section id="project" className="relative mt-16 mb-2 px-12">
        <Particles
               className="absolute inset-0 -z-50"
               quantity={100}

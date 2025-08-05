@@ -45,7 +45,7 @@ await emailjs.send("service_itdrahg","template_89qnqnt", {
     }
 };
   return (
-    <section id="contact" className="relative flex items-center c-space section-spacing">
+    <section id="contact" className="mt-1 pt-1">
       <Particles
         className="absolute inset-0 -z-50"
         quantity={100}

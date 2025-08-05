@@ -26,8 +26,15 @@ const  words=["Developer", "Programmer", "Inventor"];
           animate="visible"
           transition={{ delay: 1.5 }}><FlipWords words={words} className="font-black text-white text-8xl" />
             </motion.div>
-           
-
+         <motion.p
+  className="text-4xl font-medium text-neutral-300"
+  variants={variants}
+  initial="hidden"
+  animate="visible"
+  transition={{ delay: 1.8 }}
+>
+  An Engineer in progress
+</motion.p>
         </div>
        </div>
        {/*mobile view*/}
@@ -38,7 +45,17 @@ const  words=["Developer", "Programmer", "Inventor"];
             <motion.p className="text-5xl font-black text-neutral-300" variants={variants} initial="hidden" animate="visible"
         transition={{ delay: 1.2}}>I'm Shivam Bartwal</motion.p>
             <motion.div  variants={variants} initial="hidden" animate="visible"
-        transition={{ delay: 1.5}}><FlipWords words={words} className="font-bold text-white text-7xl" /></motion.div>
+        transition={{ delay: 1.5}}><FlipWords words={words} className="font-bold text-white text-4xl sm:text-5xl md:text-7xl lg:text-8xl break-words max-w-full text-center" /></motion.div>
+         <motion.p
+  className="text-4xl font-medium text-neutral-300"
+  variants={variants}
+  initial="hidden"
+  animate="visible"
+  transition={{ delay: 1.8 }}
+>
+ An Engineer in progress
+</motion.p>
+
         </div>
 
        </div>
