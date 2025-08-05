@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website built using modern React practices. This project showcases my work, skills, tech stack, and provides a way for visitors to connect with me. It combines interactive animations, responsive design, and modular components for a smooth user experience.
 
-![Portfolio Screenshot](logos/preview.png) 
+![Portfolio Screenshot](public/logos/preview.png) 
 
 
 ## 📌 Features
