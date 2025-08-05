@@ -16,8 +16,8 @@ Welcome to my personal portfolio website built using modern React practices. Thi
 
 ## 🛠️ Tech Stack
 
-React = UI rendering and component-based design
-Framer Motion = Animations and transitions
-Tailwind CSS = Styling and layout
-Vite = Frontend build tool
-JSX = Syntax for defining UI components
+- **React** – UI rendering and component-based design  
+- **Framer Motion** – Animations and transitions  
+- **Tailwind CSS** – Styling and layout  
+- **Vite** – Frontend build tool  
+- **JSX** – Syntax for defining UI components  
