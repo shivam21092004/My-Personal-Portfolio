@@ -120,16 +120,16 @@ export const mySocials = [
   {
   name: "WhatsApp",
   href: "https://wa.me/917906933812",
-  icon: "public/logos/whatsApp.svg", 
+  icon: "/logos/whatsApp.svg", 
 },
   {
     name: "Linkedin",
     href: "https://www.linkedin.com/in/shivam-bartwal-9b810624b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    icon: "public/logos/linkedIn.svg",
+    icon: "/logos/linkedIn.svg",
   },
   {
     name: "Instagram",
     href: "https://www.instagram.com/shivambartwal15?igsh=YmZnNWhmYTJrbnAw",
-    icon: "public/logos/instagram.svg",
+    icon: "/logos/instagram.svg",
   },
 ];
