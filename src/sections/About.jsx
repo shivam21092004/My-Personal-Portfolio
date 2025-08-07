@@ -16,7 +16,7 @@ const About = () => {
           />
           <div className="z-10">
             <p className="headtext">Hi, I'm Shivam Bartwal</p>
-            <p className="subtext">An aspiring Computer Science Engineer currently pursuing my B.Tech at Graphic Era Hill University, with a strong foundation in machine learning, computer vision, and software development. I have applied these skills in real-world projects.I am passionate about building impactful, data-driven solutions and continuously expanding my knowledge through certifications and hands-on experience. </p>
+            <p className="subtext">An aspiring Computer Science Engineer currently pursuing my B.Tech at Graphic Era Hill University, with a strong foundation in machine learning and software development. I have applied these skills in real-world projects.I'm passionate about building impactful, data-driven solutions and continuously expanding my knowledge through certifications and hands-on experience. </p>
           </div>
           <div className="absolute inset-x-0 pointer-evets-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />
         </div>
