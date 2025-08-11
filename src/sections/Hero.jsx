@@ -15,6 +15,7 @@ const Hero = () => {
             <HeroText />
             <ParallaxBackground />
             <figure className="absolute inset-0" style={{ width: '100vw', height: '100vw' }}>
+                </figure>
         </section>
     );
 };
