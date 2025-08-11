@@ -1,6 +1,7 @@
 import HeroText from "../components/HeroText";
 import ParallaxBackground from "../components/ParallaxBackground";
 import { Particles } from "../components/Particles";
+import Loader from "../components/Loader";
 
 const Hero = () => {
     return (
@@ -15,6 +16,8 @@ const Hero = () => {
             <HeroText />
             <ParallaxBackground />
             <figure className="absolute inset-0" style={{ width: '100vw', height: '100vw' }}>
+                  <Canvas camera={{ position: [0, 1, 3] }}>
+          <Suspense fallback={<Loader />}>
             </figure>
         </section>
     );
